@@ -1,2 +1,6 @@
+import debug_gpt
 
-print(hello)
+
+print('hello world! from test.py!!')
+print(finallly)
+
